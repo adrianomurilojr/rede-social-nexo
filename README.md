@@ -3,7 +3,7 @@
 
 # Nexo
 
-Rede social minimalista com frontend e backend separados.
+Rede social minimalista com frontend e backend.
 
 ## Requisitos
 
