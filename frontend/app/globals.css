@@ -1,0 +1,44 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-ink: #080d18;
+  --color-panel: #101827;
+  --color-blue: #2563eb;
+  --color-blue-200: #bfdbfe;
+  --color-blue-500: #3b82f6;
+  --color-gold: #d4af62;
+  --color-muted: #8994a8;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #080d18;
+  color: #f4f6fb;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image:
+    linear-gradient(rgba(8, 13, 24, 0.82), rgba(8, 13, 24, 0.9)),
+    url('/images/praia.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+::selection {
+  background: #d4af62;
+  color: #080d18;
+}
