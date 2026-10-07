@@ -1,3 +1,6 @@
+<img width="1917" height="912" alt="Captura de tela 2026-10-07 064601" src="https://github.com/user-attachments/assets/7821a6d0-56d3-4f08-9836-3f106a38c293" />
+
+
 # Nexo
 
 Rede social minimalista com frontend e backend separados.
