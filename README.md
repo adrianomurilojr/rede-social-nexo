@@ -44,4 +44,4 @@ A aplicação ficará disponível em `http://localhost:3000`.
 - Layout responsivo em azul, preto e ouro.
 - Telas separadas de cadastro (`/register`) e login (`/login`); após autenticar, a pessoa segue para o mural (`/`).
 
-O frontend usa `NEXT_PUBLIC_API_URL` para localizar a API. O backend usa `DATABASE_URL`, `JWT_SECRET` e `PORT`; configure um segredo JWT forte antes de publicar.
+
